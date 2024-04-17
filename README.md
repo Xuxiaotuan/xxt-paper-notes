@@ -18,7 +18,7 @@ CS
 - [ ] todo
 
 Database
-- [ ] todo 
+- [ ] todo
 
 Distributed System
- - [ ] todo 
+- [ ] todo
