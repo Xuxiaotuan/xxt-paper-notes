@@ -85,10 +85,10 @@ delete 日志在 select 之后，result set 包含该记录，需要删除该记
                   delete
 ```
 
-### 疑问
-
-output buffer 中为何还保留了 lw 之前的事务日志？
-
 ### More readings
 
-[1] [DBLog: A Generic Change-Data-Capture Framework](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
+- [1] [DBLog: A Generic Change-Data-Capture Framework](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
+- [2] [Flink-CDC-DBLog无锁算法](https://miaowenting.site/2022/02/15/Flink-CDC-DBLog%E6%97%A0%E9%94%81%E7%AE%97%E6%B3%95/)
+- [3] [Flink CDC 2.0 实现原理剖析](https://zhjwpku.com/2022/01/16/flink-cdc-2-0-analysis.html)
+- [4] [DBLog: 一款通用的变化数据捕获框架](https://blog.victorchu.info/posts/d24c18fd/)
+- [5] [DBLog: AWatermark Based Change-Data-Capture Framework paper](https://arxiv.org/abs/2010.12597)
