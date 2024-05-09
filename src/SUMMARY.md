@@ -1,5 +1,7 @@
 # Summary
 
-- [Paper Notes](./paper_notes.md)
-- [database](./database/README.md)
-  - [CDC](./database/1-1-cdc.md)
+[Paper Notes](./README.md)
+
+- [database](./databases/README.md)
+  - [cdc](./databases/cdc/README.md)
+    - [dblog](./databases/cdc/dblog.md)

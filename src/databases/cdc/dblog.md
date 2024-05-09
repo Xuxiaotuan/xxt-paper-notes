@@ -1,4 +1,4 @@
-# cdc
+# dblog
 
 - (1) 记录当前binlog位置作为`LOW`偏移量
 - (2) 通过执行语句读取并缓冲快照块记录`SELECT * FROM MyTable WHERE id > chunk_low AND id <= chunk_high`
