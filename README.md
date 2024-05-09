@@ -1,6 +1,12 @@
 # xxt-paper-notes
 
-This repo is a mdBook, run mdbook serve to read the notes locally
+This repo is a mdBook, run `mdbook serve` to read the notes locally
+
+```shell
+git clone https://github.com/Xuxiaotuan/xxt-paper-notes.git
+cd xxt-paper-notes
+mdbook serve
+```
 
 first read [How to Read a Paper](https://paper-notes.zhjwpku.com/assets/pdfs/how-to-read-a-paper.pdf)
 
