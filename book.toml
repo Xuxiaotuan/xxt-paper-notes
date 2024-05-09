@@ -1,0 +1,6 @@
+[book]
+authors = ["Xuxiaotuan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "xxt-paper-notes"
