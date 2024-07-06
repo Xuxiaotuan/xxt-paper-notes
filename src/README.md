@@ -3,7 +3,7 @@
 Google 三大马车
 
 - [ ] The Google File System
-- [ ] MapReduce
+- [ ] [MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
 - [ ] [Bigtable](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
 
 BigData
